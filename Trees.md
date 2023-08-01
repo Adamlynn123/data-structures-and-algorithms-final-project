@@ -6,7 +6,7 @@ Trees can be a great way to improve performance when searching through a data st
 
 * General Tree - A tree with no order or organization with its content.
 * Binary Tree - A tree that has no order but is organized with a max of 2 child nodes per node.
-* Binary Search Tree(BST) - Like a binary tree but is orderd so numbers less than the parent node go to the left, and numbers that are greater than the parent node go the the right.
+* Binary Search Tree(BST) - Like a binary tree but is ordered so numbers less than the parent node go to the left, and numbers that are greater than the parent node go the the right.
 
 ## Binary Search Trees
 
